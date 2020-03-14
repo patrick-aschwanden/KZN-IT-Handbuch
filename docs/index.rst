@@ -1,7 +1,3 @@
-Eins
-====
-+----+----+
-|Eins|zwei|
-+----+----+
+Distance Learning
+=================
 
-Vier, fünf, sechs
