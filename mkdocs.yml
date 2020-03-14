@@ -5,3 +5,10 @@ site_author: Patrick Aschwanden
 
 repo_url: https://github.com/patrick-aschwanden/KZN_IT-Handbuch/
 edit_uri: ""
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
