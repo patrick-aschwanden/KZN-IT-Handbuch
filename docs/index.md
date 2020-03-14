@@ -1,3 +1,0 @@
-Eins
-Zwei
-Drei
