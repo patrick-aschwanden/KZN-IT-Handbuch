@@ -3,5 +3,3 @@ Eins
 
 Zwei
 ----
-
-Sechs
